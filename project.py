@@ -1,9 +1,3 @@
-"""
-DSC 20 Project
-Name(s): Khushi Raghuvanshi and Maissa Nafisa
-PID(s):  A17048848 and A17020792
-"""
-
 import numpy as np
 import os
 from PIL import Image
